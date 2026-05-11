@@ -274,11 +274,24 @@ Dataset fields:
 
 ---
 
-# 🖼 Training Results
+# 🏆 Hackathon Results
 
-PASTE TRAINING RESULTS IMAGE HERE
+Our team achieved strong performance during DeepX Hackathon 2026:
+
+- 🥇 Ranked **15th out of 150 teams**
+- 📊 Achieved an **F1-score of 0.8425** on the training set
+- 🎯 Submission score: **~24ز94/30**
+
+This project successfully competed among top-performing Arabic NLP solutions in the hackathon.
 
 ---
+
+# 🖼 Leaderboard & Score Screenshot
+
+<img width="1600" height="722" alt="52c2a9b2-cabc-4871-a3c3-fef166746555" src="https://github.com/user-attachments/assets/c8a4c16c-68e3-42c0-8bf3-cbf3e74fa9a8" />
+
+<img width="1600" height="308" alt="163aa547-f323-4449-bc2e-15c86b98408d" src="https://github.com/user-attachments/assets/de5b24ca-111d-4074-9191-02143890397b" />
+
 
 # 📁 Repository Structure
 
