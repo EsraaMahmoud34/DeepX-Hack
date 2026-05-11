@@ -75,7 +75,7 @@ Structured JSON Output
 
 # 🖼 System Architecture Diagram
 
-<!-- DRAG & DROP ARCHITECTURE IMAGE HERE -->
+PASTE ARCHITECTURE IMAGE HERE
 
 ---
 
@@ -189,7 +189,7 @@ This significantly improves understanding of ambiguous reviews.
 
 # 🖼 Preprocessing Example Screenshot
 
-<!-- DRAG & DROP PREPROCESSING IMAGE HERE -->
+PASTE PREPROCESSING IMAGE HERE
 
 ---
 
@@ -276,7 +276,7 @@ Dataset fields:
 
 # 🖼 Training Results
 
-<!-- DRAG & DROP TRAINING RESULTS IMAGE HERE -->
+PASTE TRAINING RESULTS IMAGE HERE
 
 ---
 
@@ -303,21 +303,25 @@ Dataset fields:
 
 # 🖼 UI Demo
 
-<!-- <img width="1600" height="822" alt="WhatsApp Image 2026-04-25 at 09 11 15" src="https://github.com/user-attachments/assets/6d160a25-a5ca-4322-9fca-5a6e12613f73" />
- -->
+
+<img width="1600" height="822" alt="d78908f7-fb50-46f2-8629-098adbea7004" src="https://github.com/user-attachments/assets/f80b27c4-ba44-4683-8128-dd7e63602d2c" />
 
 ---
 
 # 🖼 Prediction Examples
 
-<!-- <img width="1600" height="816" alt="WhatsApp Image 2026-04-25 at 09 11 16 (1)" src="https://github.com/user-attachments/assets/bfddbe9f-cd5f-4347-b1b5-8ce509d42945" />
- -->
+PREDICTION IMAGE 1
+<img width="1600" height="816" alt="05f4e7e2-abe5-4892-ab90-64a3a562e4ba" src="https://github.com/user-attachments/assets/7ccd18c4-7799-46d8-94be-a1e06cdc2c59" />
 
-<!-- <img width="1600" height="816" alt="WhatsApp Image 2026-04-25 at 09 11 16 (1)" src="https://github.com/user-attachments/assets/7499d9be-cb7c-4f40-93a6-36113be8f10d" />
- -->
+<br>
 
-<!-- <img width="1600" height="757" alt="WhatsApp Image 2026-04-25 at 09 11 16 (3)" src="https://github.com/user-attachments/assets/4e3b34c0-6fd7-4083-8535-1cdedac6be44" />
- -->
+PREDICTION IMAGE 2 
+<img width="1600" height="903" alt="9fbc9ac2-0533-4da7-b7f7-0e695807f37a" src="https://github.com/user-attachments/assets/87790401-ee6b-40fd-9793-dcc0968ba108" />
+
+<br>
+
+PREDICTION IMAGE 3
+<img width="1600" height="757" alt="8c80ef17-9d73-4b84-95a0-923ad5078c30" src="https://github.com/user-attachments/assets/243b9696-f96b-40fa-ba6a-c09ef38a4ed1" />
 
 ---
 
@@ -439,5 +443,3 @@ Special thanks to:
 - DeepX Hackathon 2026
 - AraBERT creators
 - Open-source Arabic NLP community
-
----
