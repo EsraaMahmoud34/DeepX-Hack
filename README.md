@@ -305,8 +305,8 @@ Example:
 ## Prediction Example
 
 ```markdown
-![Prediction Example](<img width="1600" height="816" alt="image" src="https://github.com/user-attachments/assets/4742e7d1-368b-47be-af76-74af4cc0a2cb" />
-)
+![UI](images/ui.<img width="1600" height="822" alt="WhatsApp Image 2026-04-25 at 09 11 15" src="https://github.com/user-attachments/assets/c0ed9098-1c6a-4f46-bbe5-1142b78aa7c7" />
+png)
 (<img width="1600" height="903" alt="image" src="https://github.com/user-attachments/assets/b098aeae-0359-4665-8b31-b964153b5aee" />
 )
 (<img width="1600" height="757" alt="image" src="https://github.com/user-attachments/assets/31abdaea-c60e-4baf-9a71-0ade8a587aa4" />
@@ -322,8 +322,7 @@ Example:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/DeepX-Hack.git
-
+https://github.com/EsraaMahmoud34/DeepX-Hack.git
 cd DeepX-Hack
 ```
 
