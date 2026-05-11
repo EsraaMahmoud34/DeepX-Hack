@@ -6,7 +6,7 @@ Production-grade Arabic Aspect-Based Sentiment Analysis (ABSA) system built usin
 
 # 🚀 About the Hackathon
 
-This project was developed during **DeepX Hackathon 2025**.
+This project was developed during **DeepX Hackathon 2026**.
 
 The challenge focused on building intelligent AI systems capable of solving real-world Arabic NLP problems. Our team designed a complete Arabic NLP pipeline capable of understanding customer opinions at a much deeper level than traditional sentiment analysis systems.
 
@@ -73,6 +73,12 @@ Structured JSON Output
 
 ---
 
+# 🖼 System Architecture Diagram
+
+<!-- DRAG & DROP ARCHITECTURE IMAGE HERE -->
+
+---
+
 # 🧹 Arabic Preprocessing Pipeline
 
 The preprocessing pipeline was specially designed for noisy Arabic customer reviews.
@@ -92,7 +98,6 @@ It handles:
 ## 🔧 Preprocessing Steps
 
 ### 1️⃣ Unicode Arabic Normalization
-Normalizes Arabic letter variants:
 
 ```text
 أ / إ / آ → ا
@@ -102,8 +107,6 @@ Normalizes Arabic letter variants:
 ---
 
 ### 2️⃣ Emoji → Arabic Sentiment Mapping
-
-Example:
 
 ```text
 😍 → رائع جدا
@@ -162,8 +165,6 @@ the food is amazing والخدمة ممتازة
 
 ### 6️⃣ Context Prefix Injection
 
-The model receives additional business context:
-
 ```text
 [مطعم] [نجوم:2]
 ```
@@ -183,6 +184,12 @@ This significantly improves understanding of ambiguous reviews.
 ```text
 [مطعم] [نجوم:2] الاكل رائعةة رائع جدا بس التوصيل اتاخر سيء
 ```
+
+---
+
+# 🖼 Preprocessing Example Screenshot
+
+<!-- DRAG & DROP PREPROCESSING IMAGE HERE -->
 
 ---
 
@@ -221,6 +228,7 @@ Predicts sentiment for each detected aspect independently.
 - negative
 
 ### Input Format
+
 ```text
 [ASPECT] food [TEXT] الاكل ممتاز
 ```
@@ -266,6 +274,12 @@ Dataset fields:
 
 ---
 
+# 🖼 Training Results
+
+<!-- DRAG & DROP TRAINING RESULTS IMAGE HERE -->
+
+---
+
 # 📁 Repository Structure
 
 ```text
@@ -287,33 +301,23 @@ Dataset fields:
 
 ---
 
-# 🖼 Screenshots
+# 🖼 UI Demo
 
-## UI Example
-
-Add your screenshots inside an `images/` folder.
-
-Example:
-
-```markdown
-![UI Screenshot](<img width="1600" height="822" alt="image" src="https://github.com/user-attachments/assets/0891db56-f06d-47f0-9dc4-56fd5d1e6c6c" />
-)
-```
+<!-- <img width="1600" height="822" alt="WhatsApp Image 2026-04-25 at 09 11 15" src="https://github.com/user-attachments/assets/6d160a25-a5ca-4322-9fca-5a6e12613f73" />
+ -->
 
 ---
 
-## Prediction Example
+# 🖼 Prediction Examples
 
-```markdown
-![UI](images/ui.<img width="1600" height="822" alt="WhatsApp Image 2026-04-25 at 09 11 15" src="https://github.com/user-attachments/assets/c0ed9098-1c6a-4f46-bbe5-1142b78aa7c7" />
-png)
-(<img width="1600" height="903" alt="image" src="https://github.com/user-attachments/assets/b098aeae-0359-4665-8b31-b964153b5aee" />
-)
-(<img width="1600" height="757" alt="image" src="https://github.com/user-attachments/assets/31abdaea-c60e-4baf-9a71-0ade8a587aa4" />
-)
-(<img width="1600" height="856" alt="image" src="https://github.com/user-attachments/assets/b8929d60-933c-48ed-90c3-7bc124ff1a46" />
-)
-```
+<!-- <img width="1600" height="816" alt="WhatsApp Image 2026-04-25 at 09 11 16 (1)" src="https://github.com/user-attachments/assets/bfddbe9f-cd5f-4347-b1b5-8ce509d42945" />
+ -->
+
+<!-- <img width="1600" height="816" alt="WhatsApp Image 2026-04-25 at 09 11 16 (1)" src="https://github.com/user-attachments/assets/7499d9be-cb7c-4f40-93a6-36113be8f10d" />
+ -->
+
+<!-- <img width="1600" height="757" alt="WhatsApp Image 2026-04-25 at 09 11 16 (3)" src="https://github.com/user-attachments/assets/4e3b34c0-6fd7-4083-8535-1cdedac6be44" />
+ -->
 
 ---
 
@@ -322,7 +326,8 @@ png)
 ## Clone Repository
 
 ```bash
-https://github.com/EsraaMahmoud34/DeepX-Hack.git
+git clone https://github.com/EsraaMahmoud34/DeepX-Hack.git
+
 cd DeepX-Hack
 ```
 
@@ -416,9 +421,9 @@ Applicable to:
 
 # 👥 Team
 
-- :contentReference[oaicite:1]{index=1}
-- :contentReference[oaicite:2]{index=2}
-- :contentReference[oaicite:3]{index=3}
+- Esraa Mahmoud
+- Ahmed Talima
+- Yousef Samir
 
 ---
 
